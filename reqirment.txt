@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+fastapi
+xgboost
+httpx
+uvicorn
+sqlalchemy
+psycopg2-binary
+dotenv
+kafka-python 
+joblib
+confluent_kafka
+joblib
+streamlit
